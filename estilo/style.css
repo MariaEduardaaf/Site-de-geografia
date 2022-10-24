@@ -159,5 +159,7 @@ ul {
 
 #pontos, #result {
     color: white;
+    font-size: large;
+    font-weight: 900;
     padding-bottom: 100px;
 }
